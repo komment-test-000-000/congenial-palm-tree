@@ -1,5 +1,4 @@
 package io.sensable.client.adapter;
-
 import android.content.Context;
 import android.graphics.Typeface;
 import android.view.LayoutInflater;
